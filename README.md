@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
-
 # Kim Hojun 🙃
 
 ------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
 ![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent) <br>
 
