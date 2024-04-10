@@ -2,10 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)](https://solved.ac/kkkhhjjj)
 
 
   ### Certifications
-  <br>
   
   |자격증|등급|취득일자|발급기관|
   |-------------|------|----------|------------|
@@ -15,9 +15,6 @@
   |ISTQB|CTFL|2023-08-24|ISTQB|
   |컴퓨터활용능력|2급|2022-02-04|대한상공회의|
 
-<br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kkkhhjjj})](https://solved.ac/{kkkhhjjj})<br>
 
 <br>
 
