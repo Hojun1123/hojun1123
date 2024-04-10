@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
-  ###Certifications
+  ### Certifications
   <br>
   |자격증|등급|취득일자|발급기관|
   |-------------|------|----------|------------|
