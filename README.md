@@ -15,13 +15,19 @@
   |ISTQB|CTFL|2023-08-24|ISTQB|
   |컴퓨터활용능력|2급|2022-02-04|대한상공회의|
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{kkkhhjjj})
+<br>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kkkhhjjj})](https://solved.ac/{kkkhhjjj})<br>
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=footer" />
+
+<br>
 
 <!--
 **Hojun1123/hojun1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
