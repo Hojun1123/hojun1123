@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=radical)
+![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)](https://solved.ac/kkkhhjjj)
 
 
@@ -17,8 +17,7 @@
 
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123&hide_progress=true)
 
 <br>
 
