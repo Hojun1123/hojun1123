@@ -1,10 +1,9 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
-![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent)
+![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent) <br>
 
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)](https://solved.ac/kkkhhjjj) -->
-
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)(https://solved.ac/kkkhhjjj)
 ![Hojun profile](http://mazandi.herokuapp.com/api?handle=kkkhhjjj&theme=warm)
 
   ### Certifications
