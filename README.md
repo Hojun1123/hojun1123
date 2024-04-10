@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=footer" />
 
 <!--
 **Hojun1123/hojun1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
