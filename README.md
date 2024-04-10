@@ -12,6 +12,8 @@
   |ISTQB|CTFL|2023-08-24|ISTQB|
   |컴퓨터활용능력|2급|2022-02-04|대한상공회의|
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=footer" />
