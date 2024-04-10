@@ -18,7 +18,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123&layout=compact)
 
 <br>
 
