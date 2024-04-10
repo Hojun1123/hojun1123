@@ -1,12 +1,8 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
-<details>
-  <summary>
-  Certifications
-  </summary>
+  ###Certifications
   <br>
-  
   |자격증|등급|취득일자|발급기관|
   |-------------|------|----------|------------|
   |정보처리기사|기사|2023-06-09|한국산업인력공단|
@@ -14,8 +10,6 @@
   |CSTS|FL|2022-11-30|한국정보통신기술협회|
   |ISTQB|CTFL|2023-08-24|ISTQB|
   |컴퓨터활용능력|2급|2022-02-04|대한상공회의|
-  
-</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojun1123)](https://github.com/anuraghazra/github-readme-stats)
 
