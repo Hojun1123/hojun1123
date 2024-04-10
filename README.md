@@ -3,7 +3,7 @@
 
 ![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent) <br>
 
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)(https://solved.ac/kkkhhjjj)
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)
 ![Hojun profile](http://mazandi.herokuapp.com/api?handle=kkkhhjjj&theme=warm)
 
   ### Certifications
