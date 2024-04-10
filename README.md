@@ -3,12 +3,16 @@
 ------------------------
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D4F0F0&height=150&section=header" />
 
+### Github status
+
 ![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1123&show_icons=true&theme=transparent) <br>
+
+### Algorithm
 
 ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkhhjjj)
 ![Hojun profile](http://mazandi.herokuapp.com/api?handle=kkkhhjjj&theme=dark)
 
-  ### Certifications
+### Certifications
   
   |자격증|등급|취득일자|발급기관|
   |-------------|------|----------|------------|
